@@ -8,8 +8,20 @@ Inicié mi capacitación en la academia Henry y me sigo capacitando constantemen
 ## Proyectos
 * FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel de administrador.
 <div display='flex' flex-direction='row'> 
-<img src='./imageFaltaUno.jpeg' width='390px' />
-<img src='./image1.jpeg' width='390px' />
+<img src='./imageFaltaUno.jpeg' width='410px' />
+<img src='./image1.jpeg' width='410px' />
+</div>
+
+* CountriesApp! Single Page Application realizada como proyecto individual, cuenta con buscadores, filtrados, paginación y creación. Tecnologías utilizadas:
+✨JavaScript.
+✨Data Base: PostgreSQL.
+✨Back-End: NodeJs, ExpressJs, Sequelize.
+✨Front-End: React, Redux, CSS.
+✨Deploy: Heroku y Vercel.
+✨Control de versiones: Git/GitHub.
+<div display='flex' flex-direction='row'> 
+<img src='./imageFaltaUno.jpeg' width='410px' />
+<img src='./image1.jpeg' width='410px' />
 </div>
 
 ## ¿Querés saber más de mi? ¡Contáctame!
