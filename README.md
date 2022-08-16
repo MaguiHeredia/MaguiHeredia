@@ -9,5 +9,5 @@ Inicié mi capacitación en la academia Henry y me sigo capacitando constantemen
 * ✉️ Email: maguiherediavaiarini@gmail.com
 * 📞 Cel: (+54) 3541201933
 * 👤 Portfolio: https://portfolio-marianela-heredia.vercel.app/
-* 💬 LinkdIn: https://www.linkedin.com/in/marianela-heredia-/
+* 💬 LinkedIn: https://www.linkedin.com/in/marianela-heredia-/
 
