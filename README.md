@@ -7,8 +7,8 @@ Inicié mi capacitación en la academia Henry y me sigo capacitando constantemen
 
 ## Proyectos
 * FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel de administrador.
-![imageFaltaUno] (imageFaltaUno.jpeg)
-![image1] (image1.jpeg)
+![imageFaltaUno](imageFaltaUno.jpeg)
+![image1](image1.jpeg)
 
 ## ¿Querés saber más de mi? ¡Contáctame!
 * ✉️ Email: maguiherediavaiarini@gmail.com
