@@ -21,6 +21,10 @@ JavaScript. Data Base: PostgreSQL. Back-End: NodeJs, ExpressJs, Sequelize. Front
 <img src='./countries.png' width='410px' />
 </div>
 
+## Tecnologías
+JavaScript - React - Redux - HTML - CSS - Bootstrap - Node.js - Express.js - Sequelize - Aunth0 - Postman - PostrgreSQL - GIT - Trello - Figma
+
+
 ## ¿Querés saber más de mi? ¡Contáctame!
 * ✉️ Email: maguiherediavaiarini@gmail.com
 * 📞 Cel: (+54) 3541201933
