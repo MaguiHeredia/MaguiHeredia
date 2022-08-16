@@ -6,8 +6,8 @@ Con excelente capacidad resolutiva, siempre buscando maneras rápidas y eficaces
 Inicié mi capacitación en la academia Henry y me sigo capacitando constantemente de manera autodidacta.
 
 ## ¿Querés saber más de mi? ¡Contáctame!
-* ✉️ maguiherediavaiarini@gmail.com
+* ✉️ Email: maguiherediavaiarini@gmail.com
 * 📞 Cel: (+54) 3541201933
-* 👤 https://portfolio-marianela-heredia.vercel.app/
-* 💬 https://www.linkedin.com/in/marianela-heredia-/
+* 👤 Portfolio: https://portfolio-marianela-heredia.vercel.app/
+* 💬 LinkdIn: https://www.linkedin.com/in/marianela-heredia-/
 
