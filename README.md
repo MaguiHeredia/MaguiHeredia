@@ -6,7 +6,7 @@ Con excelente capacidad resolutiva, siempre buscando maneras rápidas y eficaces
 Inicié mi capacitación en la academia Henry y me sigo capacitando constantemente de manera autodidacta.
 
 ## Proyectos
-* FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel de administrador.
+* FaltaUno! Es una App para el alquiler de canchas y elementos deportivos de diferentes complejos. Cuenta con funcionalidades como: login, paserala de pago, chat interno, calendario y notificaciones, entre otras. Mi trabajo en la app estuvo enfocado en todo lo relacionado con las vistas y funcionalidades de los dueños de canchas, y el panel del administrador.
 * Link a FaltaUno! https://falta-uno-henry.vercel.app/
 <div display='flex' flex-direction='row' margin-bottom='30px'> 
 <img src='./imageFaltaUno.jpeg' width='410px' />
