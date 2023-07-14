@@ -22,12 +22,12 @@ JavaScript. Data Base: PostgreSQL. Back-End: NodeJs, ExpressJs, Sequelize. Front
 </div>
 
 ## Tecnologías
-JavaScript - React - Redux - HTML - CSS - Bootstrap - Node.js - Express.js - Sequelize - Aunth0 - Postman - PostrgreSQL - GIT - Trello - Figma
+JavaScript - React - Redux - Vue - HTML - CSS - Bootstrap - GraphQL - Node.js - Express.js - Sequelize - Aunth0 - Postman - PostrgreSQL - GIT - Trello - Figma - Vuetify - TailwindCss - Jira - TypeScript
 
 
 ## ¿Querés saber más de mi? ¡Contáctame!
 * ✉️ Email: maguiherediavaiarini@gmail.com
-* 📞 Cel: (+54) 3541201933
-* 👤 Portfolio: https://portfolio-marianela-heredia.vercel.app/
+* 📞 Cel: (+34) 602437385
+* 👤 Portfolio: https://marianela-heredia-portfolio.vercel.app/
 * 💬 LinkedIn: https://www.linkedin.com/in/marianela-heredia-/
 
